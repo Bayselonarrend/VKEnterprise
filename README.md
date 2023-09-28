@@ -1,3 +1,4 @@
+![1CVK](https://github.com/Bayselonarrend/VKEnterprise/raw/main/logo_small.png)
 # VKEnterprise
 Библиотека интеграции 1С и ВКонтакте
 
