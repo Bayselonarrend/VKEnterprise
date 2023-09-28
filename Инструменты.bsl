@@ -163,6 +163,29 @@
 // Описание структур см. здесь https://pkware.cachefly.net/webdocs/casestudies/APPNOTE.TXT
 // Источник: https://github.com/vbondarevsky/Connector 
 
+﻿// Коннектор: удобный HTTP-клиент для 1С:Предприятие 8
+//
+// Copyright 2017-2023 Vladimir Bondarevskiy
+//
+//   Licensed under the Apache License, Version 2.0 (the "License");
+//   you may not use this file except in compliance with the License.
+//   You may obtain a copy of the License at
+//
+//       http://www.apache.org/licenses/LICENSE-2.0
+//
+//   Unless required by applicable law or agreed to in writing, software
+//   distributed under the License is distributed on an "AS IS" BASIS,
+//   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+//   See the License for the specific language governing permissions and
+//   limitations under the License.
+//
+//
+// URL:    https://github.com/vbondarevsky/Connector
+// e-mail: vbondarevsky@gmail.com
+// Версия: 2.4.8
+//
+// Требования: платформа 1С версии 8.3.10 и выше
+
 Функция РаспаковатьОтвет(Ответ)
     
     Заголовок = Ответ.Заголовки.Получить("Content-Encoding");
