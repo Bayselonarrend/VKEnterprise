@@ -12,6 +12,9 @@
 Документация VK API:<br>
 https://dev.vk.com/ru/method
 
+Схожая библиотека, но для Telegram:<br>
+[https://github.com/Bayselonarrend/TelegramEnterprise](https://github.com/Bayselonarrend/TelegramEnterprise)
+
 ## Для начала использования библиотеки достаточно пройти два простых шага: ##
 <details>
 <summary>Установка библиотеки</summary>
