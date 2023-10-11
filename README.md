@@ -410,6 +410,6 @@ ___
 
 <br>
 
->![Infostart](https://infostart.ru/bitrix/templates/sandbox_empty/assets/tpl/abo/img/logo.svg)
+>![Infostart](https://github.com/Bayselonarrend/VKEnterprise/raw/main/infostart.svg)
 >
 >Статья на Инфостарте: [https://infostart.ru/1c/articles/1946543/](https://infostart.ru/1c/articles/1946543/)
