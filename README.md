@@ -404,8 +404,13 @@ ___
 >https://github.com/vbondarevsky/Connector/
 >
 >Остальной проект распространяется под лицензией MIT
->Модуль Инструменты данной библиотеки совместим с подобным модулем билиотеки TelegramEnterprise для интеграции с Telegram <br><br>
->https://github.com/Bayselonarrend/TelegramEnterprise
+>Модуль Инструменты данной библиотеки совместим с подобными модулями последних версий остальных библиотек в линейке <br><br>
+
+
+><ul>
+><li><img src="https://github.com/Bayselonarrend/TelegramEnterprise/raw/main/logo_small.png" width="28"> <a href="https://github.com/Bayselonarrend/TelegramEnterprise/">TelegramEnterprise</a> - библиотека для интеграции с Telegram</li>
+>  <li><img src="https://github.com/Bayselonarrend/ViberEnterprise/raw/main/logo_small.png" width="28"> <a href="https://github.com/Bayselonarrend/VKEnterprise/">ViberEnterprise</a> - библиотека для интеграции с Viber</li>
+></ul>
 
 
 <br>
