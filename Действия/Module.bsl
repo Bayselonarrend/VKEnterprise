@@ -610,12 +610,12 @@
     
     _Параметры = Новый Структура;
     
-    _Параметры.Вставить("access_token"  , "vk1.a.6G7E_N2ON9akXTkrZ1sx4ZzinRBrmFh0OXs8SEZyCCKKEvCXDJvkCogoW6HDRn0Jk3t38aG_D7YyJxAkrpOAS9JHFqKbtJNaS7p6z0F3FQD1USBOW6Uo8XugGrG81hMfAucVjXnA_BTmX1z7Sc4e6_O1U2P1lI5nFbNTdwHkaPrsXOdoKT9mXQTLbWTU3QgDqVofc8MeuVWhHPOVRSFTSw");
+    _Параметры.Вставить("access_token"  , "");
     _Параметры.Вставить("from_group"    , "1");
-    _Параметры.Вставить("owner_id"      , "-218861756");
+    _Параметры.Вставить("owner_id"      , "");
     _Параметры.Вставить("v"             , "5.131");
-    _Параметры.Вставить("app_id"        , "51694790");
-    _Параметры.Вставить("group_id"      , "218861756");
+    _Параметры.Вставить("app_id"        , "");
+    _Параметры.Вставить("group_id"      , "");
     
     Если ТипЗнч(Параметры) = Тип("Структура") Тогда
         Для Каждого ПереданныйПараметр Из Параметры Цикл
