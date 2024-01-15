@@ -1,3 +1,12 @@
+<table><tr>
+<td>
+	<img src="https://raw.githubusercontent.com/Bayselonarrend/OpenIntegrations/main/Media/logo.png" height=128 width=128>
+</td>
+<td>
+	<span >VKEnterprise теперь часть Открытого пакета интеграций<br><a href="https://github.com/Bayselonarrend/OpenIntegrations">https://github.com/Bayselonarrend/OpenIntegrations</a></span>
+</td>
+</tr></table>
+
 ![1CVK](https://github.com/Bayselonarrend/VKEnterprise/raw/main/logo_small.png)
 # VKEnterprise
 Библиотека интеграции 1С и ВКонтакте
